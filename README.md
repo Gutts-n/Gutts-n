@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning React Native, React, Angular, Spring, NestJS and CS concepts in general<br><br>💬 Ask me about Angular, Javascript/Typescript, Spring and Computer Science stuffs<br><br>📫 How to reach me leonardoyuricontato+github@gmail.com
+I’m currently learning React, Kubernetes, Cloud Computing, and CS concepts in general<br><br>💬 Ask me about Angular, Javascript/Typescript, Spring and Computer Science stuffs<br><br>📫 How to reach me leonardoyuricontato+github@gmail.com
 
 
 ## 🌐 Socials:
